@@ -1,0 +1,24 @@
+.card {
+  background: #fff;
+  border-radius: 2px;
+  /* height: 325px; */
+  margin: 1rem 0;
+  /* position: relative; */
+  /* width: 325px; */
+  box-shadow: 0 3px 6px black, 0 3px 6px black;
+  text-align: left;
+  padding: .5rem;
+}
+
+img {
+  height: 75%;
+  width: 75%;
+}
+
+content > .row:first-child{
+  text-align: center;
+}
+
+.row {
+  align-items: center;
+}
